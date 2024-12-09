@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1401
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Loan_Management", "Loan_Management\Loan_Management.vbproj", "{FEBD79C7-FCEE-4855-9B67-D86C24FA4A2F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Loan_Management_Setup", "Loan_Management_Setup\Loan_Management_Setup.vdproj", "{637E8592-24B5-41CD-AB8F-B8E499B732F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEBD79C7-FCEE-4855-9B67-D86C24FA4A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEBD79C7-FCEE-4855-9B67-D86C24FA4A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEBD79C7-FCEE-4855-9B67-D86C24FA4A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEBD79C7-FCEE-4855-9B67-D86C24FA4A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{637E8592-24B5-41CD-AB8F-B8E499B732F4}.Debug|Any CPU.ActiveCfg = Debug
+		{637E8592-24B5-41CD-AB8F-B8E499B732F4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DF50BB0-D8BA-4348-8B3A-6C7909EE8A33}
+	EndGlobalSection
+EndGlobal
